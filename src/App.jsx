@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-     Heloo world
+     Heloo wor
     </>
   )
 }
